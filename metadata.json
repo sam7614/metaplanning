@@ -1,0 +1,8 @@
+{
+  "name": "My Schedule",
+  "description": "High-performance productivity dashboard powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

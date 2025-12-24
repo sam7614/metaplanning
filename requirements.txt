@@ -1,0 +1,2 @@
+
+# This is a React/TypeScript project. No Python dependencies.
