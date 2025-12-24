@@ -10,8 +10,8 @@ import {
 import { Priority, Task, Goal, AppData, CoreValue, CoreCategory } from './types';
 import { getTodayStr, getMondayOfDate, CORE_CATEGORIES } from './constants';
 import { breakdownGoal, getDailyInspiration } from './gemini'; 
-import { EditableText } from './components/EditableText';
-import { GoalCard } from './components/GoalCard';
+import { EditableText } from './EditableText';
+import { GoalCard } from './GoalCard';
 
 const USER_STORAGE_KEY = 'metaplan_user_id';
 const API_URL = 'https://sheetdb.io/api/v1/e2o0qe239eld6';
